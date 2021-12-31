@@ -16,3 +16,7 @@ iv. The app will be sending the user location to Firebase after every 5
 seconds. Log the locations in the firebase so we can see the location
 history. If the user moves away from this screen then stop logging the
 location.
+
+
+# Setting up the App
+Run command to install React project for building React App using create-react-app.
