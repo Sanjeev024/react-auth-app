@@ -20,3 +20,9 @@ location.
 
 # Setting up the App
 Run command to install React project for building React App using create-react-app.
+
+npx create-react-app react-auth-app
+
+Go the app directory with change directory command.
+cd react-auth-app
+
