@@ -1,15 +1,14 @@
-// import logo from './logo.svg';
+import React from 'react';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-
 import './App.css';
+// import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+
+import Login from "./components/login.component";
+// import SignUp from "./components/signup.component";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      <h3>Build Sign Up & Login UI in React</h3>
-      </header>
-    </div>
+    <>React Auth App</>
   );
 }
 
